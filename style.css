@@ -1,0 +1,52 @@
+nav {background-color: rgb(166, 175, 247);}
+
+.navbar-brand {color: #ffffff;}
+
+.nav-link {color: #ffffff;}
+
+.titrecenter {font-size: 30px;}
+
+.jumbotron {
+    height: 500px;
+  
+    background-image: url("https://tahititourisme.com.au/wp-content/uploads/2019/07/Tom-Servais-Tahiti-Surf-Pro-2017servais17_0332781140x550px.jpg");
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.display-4 {
+    color: #ffffff ;
+}
+
+.lead {
+    color: #272727;
+}
+
+.titreC {
+    text-align: center;
+}
+
+.title1 {
+    text-align: center;
+}
+
+.Titre2 {
+    text-align: center;
+}
+
+
+.tel1 { 
+    font-size: 10px;
+}
+
+.tel2 {
+    font-size: 13px;
+    color: #8d92d3;
+}
+
+.footer {
+    font-size: 15px;
+    color: #272727;
+}
